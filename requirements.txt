@@ -1,0 +1,6 @@
+# This file may be used to create an environment using:==
+# $ conda create --name <env> --file <this file>==
+# platform: osx-64==
+gurobi==10.0.2
+matplotlib==3.7.1
+pandas==1.5.3

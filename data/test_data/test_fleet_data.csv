@@ -1,0 +1,81 @@
+vehicle_nr,location_name,vehicle_type,fuel_type,years_in_use,average_miles_per_year,region2,nhtsa_class,location_type,latitude,longitude,region,secondary_location_names
+1,Location A,Diesel | Class 3,Diesel,0,10000,Region 1,Class 3,local,0,0,MA,-
+2,Location A,Diesel | Class 3,Diesel,1,10000,Region 1,Class 3,local,0,0,MA,-
+3,Location A,Diesel | Class 3,Diesel,2,10000,Region 1,Class 3,local,0,0,MA,-
+4,Location A,Diesel | Class 3,Diesel,3,10000,Region 1,Class 3,local,0,0,MA,-
+5,Location A,Diesel | Class 3,Diesel,4,10000,Region 1,Class 3,local,0,0,MA,-
+6,Location A,Diesel | Class 3,Diesel,5,20000,Region 1,Class 3,local,0,0,MA,-
+7,Location A,Diesel | Class 3,Diesel,6,30000,Region 1,Class 3,local,0,0,MA,-
+8,Location A,Diesel | Class 3,Diesel,7,40000,Region 1,Class 3,local,0,0,MA,-
+9,Location A,Diesel | Class 3,Diesel,8,50000,Region 1,Class 3,local,0,0,MA,-
+10,Location A,Diesel | Class 3,Diesel,9,60000,Region 1,Class 3,local,0,0,MA,-
+11,Location B,CNG | Class 6,CNG,0,70000,Region 1,Class 6,regional,10,10,MA,Location C
+12,Location B,CNG | Class 6,CNG,1,80000,Region 1,Class 6,regional,10,10,MA,Location C
+13,Location B,CNG | Class 6,CNG,2,90000,Region 1,Class 6,regional,10,10,MA,Location C
+14,Location B,CNG | Class 6,CNG,3,100000,Region 1,Class 6,regional,10,10,MA,Location C
+15,Location B,CNG | Class 6,CNG,4,100000,Region 1,Class 6,regional,10,10,MA,Location C
+16,Location B,Diesel | Class 8,Diesel,0,100000,Region 1,Class 8,regional,10,10,MA,Location C
+17,Location B,Diesel | Class 8,Diesel,1,130000,Region 1,Class 8,regional,10,10,MA,Location C
+18,Location B,Diesel | Class 8,Diesel,2,110000,Region 1,Class 8,regional,10,10,MA,Location C
+19,Location B,Diesel | Class 8,Diesel,3,120000,Region 1,Class 8,regional,10,10,MA,Location C
+20,Location B,Diesel | Class 8,Diesel,4,130000,Region 1,Class 8,regional,10,10,MA,Location C
+21,Location C,CNG | Class 8,CNG,0,140000,Region 2,Class 8,regional,15,10,MA,Location B
+22,Location C,CNG | Class 8,CNG,1,150000,Region 2,Class 8,regional,15,10,MA,Location B
+23,Location C,CNG | Class 8,CNG,2,160000,Region 2,Class 8,regional,15,10,MA,Location B
+24,Location C,CNG | Class 8,CNG,3,140000,Region 2,Class 8,regional,15,10,MA,Location B
+25,Location C,CNG | Class 8,CNG,4,150000,Region 2,Class 8,regional,15,10,MA,Location B
+26,Location C,CNG | Class 8,CNG,0,160000,Region 2,Class 8,regional,15,10,MA,Location B
+27,Location C,CNG | Class 8,CNG,1,140000,Region 2,Class 8,regional,15,10,MA,Location B
+28,Location C,CNG | Class 8,CNG,2,150000,Region 2,Class 8,regional,15,10,MA,Location B
+29,Location C,CNG | Class 8,CNG,3,160000,Region 2,Class 8,regional,15,10,MA,Location B
+30,Location C,CNG | Class 8,CNG,4,180000,Region 2,Class 8,regional,15,10,MA,Location B
+31,Location D,Diesel | Class 3,Diesel,0,10000,Region 1,Class 3,local,20,15,MA,-
+32,Location D,Diesel | Class 3,Diesel,1,10000,Region 1,Class 3,local,20,15,MA,-
+33,Location D,Diesel | Class 3,Diesel,2,10000,Region 1,Class 3,local,20,15,MA,-
+34,Location D,Diesel | Class 3,Diesel,3,10000,Region 1,Class 3,local,20,15,MA,-
+35,Location D,Diesel | Class 3,Diesel,4,10000,Region 1,Class 3,local,20,15,MA,-
+36,Location D,Diesel | Class 3,Diesel,5,20000,Region 1,Class 3,local,20,15,MA,-
+37,Location D,Diesel | Class 3,Diesel,6,30000,Region 1,Class 3,local,20,15,MA,-
+38,Location D,Diesel | Class 3,Diesel,7,40000,Region 1,Class 3,local,20,15,MA,-
+39,Location D,Diesel | Class 3,Diesel,8,50000,Region 1,Class 3,local,20,15,MA,-
+40,Location D,Diesel | Class 3,Diesel,9,60000,Region 1,Class 3,local,20,15,MA,-
+41,Location E,CNG | Class 6,Diesel,0,70000,Region 1,Class 6,regional,0,20,MA,Location C
+42,Location E,CNG | Class 6,Diesel,2,80000,Region 1,Class 6,regional,0,20,MA,Location C
+43,Location E,CNG | Class 6,Diesel,4,90000,Region 1,Class 6,regional,0,20,MA,Location C
+44,Location E,CNG | Class 6,Diesel,6,100000,Region 1,Class 6,regional,0,20,MA,Location C
+45,Location E,CNG | Class 6,Diesel,8,100000,Region 1,Class 6,regional,0,20,MA,Location C
+46,Location E,Diesel | Class 8,Diesel,0,100000,Region 1,Class 8,regional,0,20,MA,Location C
+47,Location E,Diesel | Class 8,Diesel,1,130000,Region 1,Class 8,regional,0,20,MA,Location C
+48,Location E,Diesel | Class 8,Diesel,2,110000,Region 1,Class 8,regional,0,20,MA,Location C
+49,Location E,Diesel | Class 8,Diesel,3,120000,Region 1,Class 8,regional,0,20,MA,Location C
+50,Location E,Diesel | Class 8,Diesel,4,130000,Region 1,Class 8,regional,0,20,MA,Location C
+51,Location E,CNG | Class 8,Diesel,0,140000,Region 2,Class 8,regional,0,20,MA,Location C
+52,Location E,CNG | Class 8,Diesel,1,150000,Region 2,Class 8,regional,0,20,MA,Location C
+53,Location E,CNG | Class 8,Diesel,2,160000,Region 2,Class 8,regional,0,20,MA,Location C
+54,Location E,CNG | Class 8,Diesel,3,140000,Region 2,Class 8,regional,0,20,MA,Location C
+55,Location E,CNG | Class 8,Diesel,4,150000,Region 2,Class 8,regional,0,20,MA,Location C
+56,Location E,CNG | Class 8,Diesel,0,160000,Region 2,Class 8,regional,0,20,MA,Location C
+57,Location E,CNG | Class 8,Diesel,1,140000,Region 2,Class 8,regional,0,20,MA,Location C
+58,Location E,CNG | Class 8,Diesel,2,150000,Region 2,Class 8,regional,0,20,MA,Location C
+59,Location E,CNG | Class 8,Diesel,3,160000,Region 2,Class 8,regional,0,20,MA,Location C
+60,Location E,CNG | Class 8,Diesel,4,180000,Region 2,Class 8,regional,0,20,MA,Location C
+61,Location E,CNG | Class 6,Diesel,1,70000,Region 1,Class 6,regional,0,20,MA,Location C
+62,Location E,CNG | Class 6,Diesel,3,80000,Region 1,Class 6,regional,0,20,MA,Location C
+63,Location E,CNG | Class 6,Diesel,5,90000,Region 1,Class 6,regional,0,20,MA,Location C
+64,Location E,CNG | Class 6,Diesel,7,100000,Region 1,Class 6,regional,0,20,MA,Location C
+65,Location E,CNG | Class 6,Diesel,9,100000,Region 1,Class 6,regional,0,20,MA,Location C
+66,Location E,Diesel | Class 8,Diesel,0,100000,Region 1,Class 8,regional,0,20,MA,Location C
+67,Location E,Diesel | Class 8,Diesel,1,130000,Region 1,Class 8,regional,0,20,MA,Location C
+68,Location E,Diesel | Class 8,Diesel,2,110000,Region 1,Class 8,regional,0,20,MA,Location C
+69,Location E,Diesel | Class 8,Diesel,3,120000,Region 1,Class 8,regional,0,20,MA,Location C
+70,Location E,Diesel | Class 8,Diesel,4,130000,Region 1,Class 8,regional,0,20,MA,Location C
+71,Location E,CNG | Class 8,Diesel,0,140000,Region 2,Class 8,regional,0,20,MA,Location C
+72,Location E,CNG | Class 8,Diesel,1,150000,Region 2,Class 8,regional,0,20,MA,Location C
+73,Location E,CNG | Class 8,Diesel,2,160000,Region 2,Class 8,regional,0,20,MA,Location C
+74,Location E,CNG | Class 8,Diesel,3,140000,Region 2,Class 8,regional,0,20,MA,Location C
+75,Location E,CNG | Class 8,Diesel,4,150000,Region 2,Class 8,regional,0,20,MA,Location C
+76,Location E,CNG | Class 8,Diesel,0,160000,Region 2,Class 8,regional,0,20,MA,Location C
+77,Location E,CNG | Class 8,Diesel,1,140000,Region 2,Class 8,regional,0,20,MA,Location C
+78,Location E,CNG | Class 8,Diesel,2,150000,Region 2,Class 8,regional,0,20,MA,Location C
+79,Location E,CNG | Class 8,Diesel,3,160000,Region 2,Class 8,regional,0,20,MA,Location C
+80,Location E,CNG | Class 8,Diesel,4,180000,Region 2,Class 8,regional,0,20,MA,Location C
