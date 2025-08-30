@@ -1,7 +1,7 @@
 # The Service Network Fleet Transition Problem
 This repository contains an implementation of the Service Network Fleet Transition Problem (SNFTP) by Lehmann, Gzodjak 
-and Winkenbach to inform and guiding the strategic decarbonization of logistics fleets and services. The paper can be
-found [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4732766).
+and Winkenbach (2025) to informing and guiding the strategic decarbonization of logistics fleets and services. The paper can be
+found [here](https://www.sciencedirect.com/science/article/pii/S2949899625000218).
 
 ## Description
 The goal of this repository is to i) provide a python and gurobi implementation of the SNFTP, ii) share the cost data and
@@ -50,13 +50,13 @@ python runMe.py
 If you use this code in your research, please cite the following publication:
 
 ```
-@article{Lehmann2024SNFTP,
+@article{Lehmann2025SNFTP,
     title = {{The Service Network Fleet Transition Problem}},
-    year = {2024},
-    journal = {SSRN},
+    year = {2025},
+    journal = {Transport Economics and Management},
     author = {Lehmann, Jonas and Gvozdjak, Anne and Winkenbach, Matthias},
-    url = {https://ssrn.com/abstract=4732766},
-    keywords = {Fleet transition, Integer linear programming, Logistics decarbonization}
+    url = {https://www.sciencedirect.com/science/article/pii/S2949899625000218},
+    keywords = {Fleet transition; Logistics decarbonization; Integer linear programming}
 }
 ```
 
